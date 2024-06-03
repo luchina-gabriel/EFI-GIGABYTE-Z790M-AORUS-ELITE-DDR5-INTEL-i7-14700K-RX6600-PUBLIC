@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790M Aorus Elite, Intel i7 14700K, 2x32Gb DDR5 5600MHz, RX 6600 and Wireless with AirDrop
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-Z790M-AORUS-ELITE-DDR5-INTEL-i7-14700K-RX6600-PUBLIC/assets/23700365/0ffb2e57-cb4e-4e1a-8618-6993e0eb6d6b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
